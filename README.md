@@ -1,7 +1,6 @@
+# 2. Repositori: `iot-precision-irrigation-simulator`[cite: 15]
 
-### 2. Repositori: `iot-precision-irrigation-simulator`[cite: 15]
 
-```markdown
 # IoT Precision Irrigation Simulator & Monitoring Dashboard
 
 Aplikasi simulasi dasbor pemantauan sistem irigasi presisi berbasis web. Proyek ini memodelkan alur logika otomasi distribusi air berdasarkan ambang batas (*threshold*) kelembapan tanah serta integrasi lingkungan kerja terisolasi dengan Docker.
