@@ -1,4 +1,3 @@
----
 
 ### 2. Repositori: `iot-precision-irrigation-simulator`[cite: 15]
 
@@ -7,7 +6,6 @@
 
 Aplikasi simulasi dasbor pemantauan sistem irigasi presisi berbasis web. Proyek ini memodelkan alur logika otomasi distribusi air berdasarkan ambang batas (*threshold*) kelembapan tanah serta integrasi lingkungan kerja terisolasi dengan Docker.
 
----
 
 ## 📌 Alur Logika Sistem
 1. **Penerimaan Parameter Lingkungan:** Menerima input kondisi kelembapan tanah (simulasi data telemetri sensor).
