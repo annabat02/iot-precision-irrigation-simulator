@@ -1,4 +1,4 @@
-# 2. Repositori: `iot-precision-irrigation-simulator`[cite: 15]
+# 2. Repositori: `iot-precision-irrigation-simulator`
 
 
 # IoT Precision Irrigation Simulator & Monitoring Dashboard
